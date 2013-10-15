@@ -1,0 +1,20 @@
+{
+    "name": "howlowck/dbmanager-l4",
+    "description": "An artisan command package for easy database management",
+    "authors": [
+        {
+            "name": "Hao Luo",
+            "email": "haowebdev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Howlowck\\DbmanagerL4": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
